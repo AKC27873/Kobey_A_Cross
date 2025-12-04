@@ -11,12 +11,14 @@
 
 ## Top Skills include 
 
-* ruby
+* Windows
 * linux 
 * python 
-* VPN 
-* Cisco 
+* Networking Troubleshooting 
+* Firewalls
 * WAN/LAN 
+* git  
+* version control
 
 
 [https://www.linkedin.com/in/kobey-cross](LinkedIn)
