@@ -12,13 +12,14 @@
 ## Top Skills include 
 
 * Windows
-* linux 
-* python 
-* Networking Troubleshooting 
-* Firewalls
-* WAN/LAN 
-* git  
-* version control
+* Linux 
+* Python 
+* Git  
+* Version control
+* C
+* Golang
 
+## Certifications
+Comptia Security + 
 
 [https://www.linkedin.com/in/kobey-cross](LinkedIn)
