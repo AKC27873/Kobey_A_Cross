@@ -11,13 +11,12 @@
 
 ## Top Skills include 
 
-* Windows
-* Linux 
+* Windows Operating Systems
+* Linux Operating Systems
 * Python 
 * Git  
-* Version control
+* Cyber defense
 * C
-* Ruby
 
 ## Certifications
 Comptia Security + 
