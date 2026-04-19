@@ -9,6 +9,7 @@
 * Windows Operating Systems
 * Linux Operating Systems
 * Python
+* Ruby
 * Git
 * Cyber defense
 * I really like Go/Golang
