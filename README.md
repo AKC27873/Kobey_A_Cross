@@ -1,6 +1,6 @@
 # About Me
 
-* I am a tinker in tech and cybersecurity.
+* I am a tinkerer in tech and cybersecurity.
 
 -----------------------------------------------------------------------------------
 
