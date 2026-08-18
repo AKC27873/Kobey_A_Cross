@@ -15,8 +15,19 @@
 
 
 ## Certifications
-Comptia Security +
-Comptia Network +
+* Have:
+- [X] Network + Certified
+- [X] Network + Certified
+--------------------------
+* Pending:
+- [] Linux + Certification
+- [] Server + Certification
+- [] Cysa Certification
+- [] CCNA Certification
+- [] SecurityX  Certification
+- [] CISSP  Certification
 
+## Connect with me on Linkedin
 [Linkedin](https://www.linkedin.com/in/kobey-cross)
+
 
