@@ -16,7 +16,7 @@
 
 ## Certifications
 * Have:
-- [X] Network + Certified
+- [X] Security + Certified
 - [X] Network + Certified
 --------------------------
 * Pending:
