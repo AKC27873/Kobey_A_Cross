@@ -1,11 +1,10 @@
 # About Me
 
-* I am a tinker in tech and mostly in the cyber defense space. 
+* I am a tinker in tech and cybersecurity.
 
 -----------------------------------------------------------------------------------
 
 ## Top Skills include
-
 * Windows Operating Systems
 * Windows Active Directory
 * Linux Operating Systems
