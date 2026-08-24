@@ -18,9 +18,9 @@
 * Have:
 - [X] Security + Certified
 - [X] Network + Certified
+- [x] Linux + Certification
 --------------------------
 * Pending:
-- [] Linux + Certification
 - [] Server + Certification
 - [] Cysa Certification
 - [] CCNA Certification
