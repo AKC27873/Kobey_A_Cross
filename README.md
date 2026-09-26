@@ -1,8 +1,8 @@
 # About Me
 
-A cybersecurity enthusiast passionate about understanding how systems work at a fundamental level, with a strong interest in  system security, and hardening. Driven by a desire to build, secure, and improve technology while contributing to a safer and more resilient software ecosystem.
+ A cybersecurity enthusiast passionate about understanding how systems work at a fundamental level, with a strong interest in  system security, and hardening. Driven by a desire to build, secure, and improve technology while contributing to a safer and more resilient software ecosystem.
 
------------------------------------------------------------------------------------
+-------------------------------------------------------------
 
 ## Top Skills include
 * Windows Operating Systems
@@ -21,7 +21,6 @@ A cybersecurity enthusiast passionate about understanding how systems work at a 
 - [x] Linux + Certification
 --------------------------
 * Pending:
-- [] Server + Certification
 - [] Cysa Certification
 - [] CCNA Certification
 - [] SecurityX  Certification
