@@ -20,11 +20,6 @@
 - [X] Network + Certified
 - [x] Linux + Certification
 --------------------------
-* Pending:
-- [] Cysa Certification
-- [] CCNA Certification
-- [] SecurityX  Certification
-- [] CISSP  Certification
 
 ## Connect with me on Linkedin
 [Linkedin](https://www.linkedin.com/in/kobey-cross)
