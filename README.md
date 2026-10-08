@@ -1,6 +1,6 @@
 # Hey, I'm Kobey 👋
 
-I'm an IT and cybersecurity specialist focused on **defensive security, security monitoring, systems administration, and troubleshooting**.
+I'm an IT and cybersecurity enthusiast focused on **defensive security, security monitoring, systems administration, and troubleshooting**.
 
 I enjoy understanding how systems work, identifying weaknesses, analyzing logs and network traffic, and building tools that make systems easier to monitor and secure.
 
