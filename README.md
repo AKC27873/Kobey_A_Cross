@@ -16,13 +16,13 @@ My current interests include:
 
 ---
 
-
 ## Certifications
-
-* **CompTIA Security+** — SY0-701
-* **CompTIA Network+** — N10-009
-* **CompTIA Linux+** — XK0-006
-* **CompTIA CYSA** - CS0-004
+• CompTIA Security+ (SY0-701) — December 2025
+• CompTIA Network+ (N10-009) — February 2026
+• CompTIA Linux+ (XK0-006) — August 2026
+• CompTIA CySA+ (CS0-004) — August 2026
+• CompTIA Security Analytics Professional (CSAP) — August 2026
+• CompTIA Linux Network Professional (CLNP) — August 2026
 
 ---
 
